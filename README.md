@@ -10,7 +10,7 @@ It includes user authentication, event listing, booking logic, and user-based ev
 
 ### 1. Clone the repository and unzip the project
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Mina-Milaad/areeb-task
 cd areeb-task
 2. Install backend dependencies
 bash
